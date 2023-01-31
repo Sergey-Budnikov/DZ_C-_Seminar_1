@@ -1,0 +1,15 @@
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\bin\Debug\net6.0\Задача_8.exe
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\bin\Debug\net6.0\Задача_8.deps.json
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\bin\Debug\net6.0\Задача_8.runtimeconfig.json
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\bin\Debug\net6.0\Задача_8.dll
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\bin\Debug\net6.0\Задача_8.pdb
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\obj\Debug\net6.0\Задача_8.csproj.AssemblyReference.cache
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\obj\Debug\net6.0\Задача_8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\obj\Debug\net6.0\Задача_8.AssemblyInfoInputs.cache
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\obj\Debug\net6.0\Задача_8.AssemblyInfo.cs
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\obj\Debug\net6.0\Задача_8.csproj.CoreCompileInputs.cache
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\obj\Debug\net6.0\Задача_8.dll
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\obj\Debug\net6.0\refint\Задача_8.dll
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\obj\Debug\net6.0\Задача_8.pdb
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\obj\Debug\net6.0\Задача_8.genruntimeconfig.cache
+E:\Users\serge\ДЗ_С#_Урок_1\Задача_8\obj\Debug\net6.0\ref\Задача_8.dll
