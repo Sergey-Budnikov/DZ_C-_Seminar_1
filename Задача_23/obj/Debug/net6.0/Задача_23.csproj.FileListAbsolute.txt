@@ -1,0 +1,15 @@
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\obj\Debug\net6.0\Задача_23.csproj.AssemblyReference.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\obj\Debug\net6.0\Задача_23.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\obj\Debug\net6.0\Задача_23.AssemblyInfoInputs.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\obj\Debug\net6.0\Задача_23.AssemblyInfo.cs
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\obj\Debug\net6.0\Задача_23.csproj.CoreCompileInputs.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\bin\Debug\net6.0\Задача_23.exe
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\bin\Debug\net6.0\Задача_23.deps.json
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\bin\Debug\net6.0\Задача_23.runtimeconfig.json
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\bin\Debug\net6.0\Задача_23.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\bin\Debug\net6.0\Задача_23.pdb
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\obj\Debug\net6.0\Задача_23.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\obj\Debug\net6.0\refint\Задача_23.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\obj\Debug\net6.0\Задача_23.pdb
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\obj\Debug\net6.0\Задача_23.genruntimeconfig.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_23\obj\Debug\net6.0\ref\Задача_23.dll
