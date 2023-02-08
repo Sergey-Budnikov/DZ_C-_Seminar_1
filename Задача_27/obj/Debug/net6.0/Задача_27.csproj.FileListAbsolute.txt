@@ -1,0 +1,15 @@
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\obj\Debug\net6.0\Задача_27.csproj.AssemblyReference.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\obj\Debug\net6.0\Задача_27.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\obj\Debug\net6.0\Задача_27.AssemblyInfoInputs.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\obj\Debug\net6.0\Задача_27.AssemblyInfo.cs
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\obj\Debug\net6.0\Задача_27.csproj.CoreCompileInputs.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\bin\Debug\net6.0\Задача_27.exe
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\bin\Debug\net6.0\Задача_27.deps.json
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\bin\Debug\net6.0\Задача_27.runtimeconfig.json
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\bin\Debug\net6.0\Задача_27.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\bin\Debug\net6.0\Задача_27.pdb
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\obj\Debug\net6.0\Задача_27.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\obj\Debug\net6.0\refint\Задача_27.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\obj\Debug\net6.0\Задача_27.pdb
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\obj\Debug\net6.0\Задача_27.genruntimeconfig.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_27\obj\Debug\net6.0\ref\Задача_27.dll
