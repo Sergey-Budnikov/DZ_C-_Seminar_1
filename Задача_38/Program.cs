@@ -2,7 +2,7 @@
 // Найдите разницу между максимальным и минимальным элементов массива.
 // [3 7 22 2 78] -> 76
 
-double[] array = new double[4];
+double[] Array = new double[4];
 
 void FiilArray(double[] FillingArrayValues)
 {
@@ -26,9 +26,8 @@ void PrintArray(double[] ShowArrayValues)
     }
 }
 
-FiilArray(array);
-PrintArray(array);
-
+double Method(double[] array)
+{
 int i = 0;
 int size = array.Length;
 double max = array[0];
@@ -39,7 +38,14 @@ while(i < size)
     else if(array[i] > max) max = array[i];
     i++;
 }
-Console.WriteLine($"Max " + max);
-Console.WriteLine($"Min " + min);
+Console.WriteLine($"Max: " + max);
+Console.WriteLine($"Min: " + min);
 double result = max - min;
-Console.Write($"Разница между максимальным и минимальным значениями: " + result);
+return result;
+}
+
+FiilArray(Array);
+PrintArray(Array);
+Method(Array);
+
+Console.Write($"Разница между максимальным и минимальным значениями: " + Method(Array));
