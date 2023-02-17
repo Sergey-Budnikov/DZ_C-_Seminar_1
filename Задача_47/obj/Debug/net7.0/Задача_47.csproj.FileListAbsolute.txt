@@ -1,0 +1,15 @@
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\obj\Debug\net7.0\Задача_47.csproj.AssemblyReference.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\obj\Debug\net7.0\Задача_47.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\obj\Debug\net7.0\Задача_47.AssemblyInfoInputs.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\obj\Debug\net7.0\Задача_47.AssemblyInfo.cs
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\obj\Debug\net7.0\Задача_47.csproj.CoreCompileInputs.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\bin\Debug\net7.0\Задача_47.exe
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\bin\Debug\net7.0\Задача_47.deps.json
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\bin\Debug\net7.0\Задача_47.runtimeconfig.json
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\bin\Debug\net7.0\Задача_47.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\bin\Debug\net7.0\Задача_47.pdb
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\obj\Debug\net7.0\Задача_47.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\obj\Debug\net7.0\refint\Задача_47.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\obj\Debug\net7.0\Задача_47.pdb
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\obj\Debug\net7.0\Задача_47.genruntimeconfig.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_47\obj\Debug\net7.0\ref\Задача_47.dll
