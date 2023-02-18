@@ -28,18 +28,19 @@ void PrintArray(int[] ShowArrayValues)
 
 FiilArray(array);
 
-int i = 0;
-int size = array.Length;
-int count = 0;
-while(i < size)
+int CountPositivArray(int[] Array)
 {
-    if(array[i] % 2 == 0)
-    {
-        count = count + 1;
-    }
-    i++;
+   int count = 0;
+   for(int i = 0; i < Array.Length; i++)
+   {
+       if(array[i] % 2 == 0)
+       {
+           count = count + 1;
+       }
+   }
+   return count;
 }
 
 PrintArray(array);
-Console.WriteLine("Количество положительных чисел: ");
-Console.Write(count);
+Console.WriteLine("Количество чётных чисел: ");
+Console.Write(CountPositivArray(array));
