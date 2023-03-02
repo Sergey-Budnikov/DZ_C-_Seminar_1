@@ -47,3 +47,18 @@ int length = Promt("Введите количество элементов: ");
 int[] Massiv = InputArray(length);
 PrintArray(Massiv);
 Console.WriteLine($"Количество элементов больше 0 - {CountPositivNumbers(Massiv)}");
+Console.ReadKey();
+
+// Вариант решения №2
+
+Console.WriteLine("Введите числа через пробел: ");
+string str = Console.ReadLine();
+var arrStr = str.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+var arr = Array.ConvertAll(arrStr, int.Parse);
+int count = 0;
+for(int i = 0; i < arr.Length; i++)
+{
+    if(arr[i] > 0) count++;
+}
+
+Console.Write($"Количество чисел больше нуля: {count}");
