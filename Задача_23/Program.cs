@@ -15,8 +15,8 @@ while (N >= i)
 // Второе решение для того чтобы убрать запятую в конце последнего значения N.
 
 Console.WriteLine("Enter number: ");
-int N = int.Parse(Console.ReadLine());
-int i = 1;
+N = int.Parse(Console.ReadLine());
+i = 1;
 while (N - 1 >= i)
 {
     Console.Write(i*i*i + ", ");

@@ -34,16 +34,5 @@ void FillArray (int[] ArrayMethod)
 }
 }
 
-void PrintArray(int[] Collection)
-{
-    int n  = Collection.Length;
-    int i = 0;
-    while( i < n)
-    {
-        Console.WriteLine(Collection[i]);
-        i++;
-    }
-}
-
 FillArray(array);
 PrintArray(array);
