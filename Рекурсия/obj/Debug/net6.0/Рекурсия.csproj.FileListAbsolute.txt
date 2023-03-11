@@ -1,0 +1,15 @@
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\bin\Debug\net6.0\Рекурсия.exe
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\bin\Debug\net6.0\Рекурсия.deps.json
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\bin\Debug\net6.0\Рекурсия.runtimeconfig.json
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\bin\Debug\net6.0\Рекурсия.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\bin\Debug\net6.0\Рекурсия.pdb
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\obj\Debug\net6.0\Рекурсия.csproj.AssemblyReference.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\obj\Debug\net6.0\Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\obj\Debug\net6.0\Рекурсия.AssemblyInfoInputs.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\obj\Debug\net6.0\Рекурсия.AssemblyInfo.cs
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\obj\Debug\net6.0\Рекурсия.csproj.CoreCompileInputs.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\obj\Debug\net6.0\Рекурсия.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\obj\Debug\net6.0\refint\Рекурсия.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\obj\Debug\net6.0\Рекурсия.pdb
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\obj\Debug\net6.0\Рекурсия.genruntimeconfig.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Рекурсия\obj\Debug\net6.0\ref\Рекурсия.dll

@@ -6,7 +6,17 @@
 Console.WriteLine("Введите число");
 
 int number123 = Convert.ToInt32(Console.ReadLine());
-int number23 = number123 % 100;
-int number2 = number23 / 10;
-
-Console.WriteLine(number2);
+if(number123>999)
+{
+    Console.Write("Число больше 3х символов");
+}
+else if(number123<99)
+{
+    Console.Write("Число меньше 3х символов");
+}
+else
+{
+    int number23 = number123 % 100;  // int number12 = number123 / 10;
+    int number2 = number23 / 10;     // int number2 = number12 % 10;}
+    Console.WriteLine(number2);
+}

@@ -1,0 +1,15 @@
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\obj\Debug\net7.0\ЧЕРНОВИК.csproj.AssemblyReference.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\obj\Debug\net7.0\ЧЕРНОВИК.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\obj\Debug\net7.0\ЧЕРНОВИК.AssemblyInfoInputs.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\obj\Debug\net7.0\ЧЕРНОВИК.AssemblyInfo.cs
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\obj\Debug\net7.0\ЧЕРНОВИК.csproj.CoreCompileInputs.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\bin\Debug\net7.0\ЧЕРНОВИК.exe
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\bin\Debug\net7.0\ЧЕРНОВИК.deps.json
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\bin\Debug\net7.0\ЧЕРНОВИК.runtimeconfig.json
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\bin\Debug\net7.0\ЧЕРНОВИК.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\bin\Debug\net7.0\ЧЕРНОВИК.pdb
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\obj\Debug\net7.0\ЧЕРНОВИК.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\obj\Debug\net7.0\refint\ЧЕРНОВИК.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\obj\Debug\net7.0\ЧЕРНОВИК.pdb
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\obj\Debug\net7.0\ЧЕРНОВИК.genruntimeconfig.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\ЧЕРНОВИК\obj\Debug\net7.0\ref\ЧЕРНОВИК.dll

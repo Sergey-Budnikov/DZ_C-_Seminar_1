@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\serge\\ДЗ_С#_Урок_1\\Задача 2\\Задача 2.csproj",
+      "projectUniqueName": "E:\\Users\\serge\\Desktop\\Репозитории\\ДЗ_С#_Урок_1\\Задача_2\\Задача 2.csproj",
       "projectName": "Задача 2",
-      "projectPath": "E:\\Users\\serge\\ДЗ_С#_Урок_1\\Задача 2\\Задача 2.csproj",
+      "projectPath": "E:\\Users\\serge\\Desktop\\Репозитории\\ДЗ_С#_Урок_1\\Задача_2\\Задача 2.csproj",
       "packagesPath": "E:\\Users\\serge\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\serge\\ДЗ_С#_Урок_1\\Задача 2\\obj\\",
+      "outputPath": "E:\\Users\\serge\\Desktop\\Репозитории\\ДЗ_С#_Урок_1\\Задача_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "E:\\Users\\serge\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "E:\\Users\\serge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "E:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "E:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "E:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "E:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

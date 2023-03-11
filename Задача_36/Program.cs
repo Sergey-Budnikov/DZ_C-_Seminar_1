@@ -41,3 +41,20 @@ while(i < size)
 PrintArray(array);
 Console.Write(" - Сумма элементов с нечетными индексами: ");
 Console.Write(sum);
+
+/*
+Console.Write(SumArray(array));
+
+int SumArray(int[] Array)
+{
+int i = 1;
+int size = array.Length;
+int sum = 0;
+while(i < size)
+{
+    sum = sum + array[i];
+    i+=2;
+}
+return sum;
+}
+*/

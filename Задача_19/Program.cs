@@ -3,15 +3,15 @@
 //12821 -> да
 //23432 -> да
 
-int number;   
+  
 Console.Write("Введите число: ");
-number = int.Parse(Console.ReadLine());
-int result = 0;
-int temp = number;
+int number = int.Parse(Console.ReadLine()); // Моё число 123321
+int result = 0;                             // Перевернутое число
+int temp = number;                          // 3я переменная копирующая number
 while (temp > 0) 
 {
-    int intermediate = temp % 10;
-    temp = temp / 10;
+    int intermediate = temp % 10;           // Число, из которого собирается
+    temp = temp / 10;                       // целый result, а не просто набор цифр
     result = result * 10 + intermediate;
 }
 
@@ -25,4 +25,4 @@ else
 {
    Console.Write("Число Не Палиндром");   
 }
-        
+    

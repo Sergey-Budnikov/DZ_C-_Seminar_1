@@ -5,17 +5,11 @@
 
 Console.Write("Максимальное число среди 3х: ");
 int num_a = 22;
-int num_b = 3;
+int num_b = 356;
 int num_c = 9;
 int max = num_a;
 
-if (num_b > max)
-{
-    max = num_b;
-}
-if (num_c > max)
-{
-    max = num_c;
-}
+if (num_b > max) max = num_b;
+if (num_c > max) max = num_c;
 
 Console.Write(max);

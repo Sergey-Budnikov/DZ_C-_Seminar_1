@@ -3,7 +3,7 @@
 //78 -> третьей цифры нет
 //32679 -> 6
 
-Console.Write("Введите число: ");
+/*Console.Write("Введите число: ");
 int Value;
 if (!int.TryParse(Console.ReadLine(), out Value))
 {
@@ -25,3 +25,29 @@ while (ValueAbs > 999)
 }
 
 Console.WriteLine($"Третья цифра в числе - {ValueAbs % 10}");
+*/
+
+
+System.Console.WriteLine("Введите число");
+
+int number = int.Parse(Console.ReadLine());
+
+int i=1000;
+
+while (i<=number)
+{
+    i*=10;
+}
+
+if (number<100)
+{
+     System.Console.WriteLine("Третьей цифры нет");
+}
+else
+{
+    int numberRes = number%(i/100);
+
+    numberRes = numberRes/(i/1000); 
+
+    System.Console.WriteLine(numberRes);
+}

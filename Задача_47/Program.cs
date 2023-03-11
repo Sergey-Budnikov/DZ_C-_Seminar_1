@@ -38,7 +38,7 @@ void MathRoundArray(double[,] array)
         }
     }
 }
-double[,] matrix = new double[4,2];
+double[,] matrix = new double[3,4];
 FillArray(matrix);
 MathRoundArray(matrix);
 PrintArray(matrix);

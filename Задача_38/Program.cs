@@ -11,6 +11,7 @@ void FiilArray(double[] FillingArrayValues)
     while(index < length)
     {
         FillingArrayValues[index] = new Random().Next(1, 10) + new Random().NextDouble();
+        FillingArrayValues[index] = Math.Round(FillingArrayValues[index],2);
         index++;
     }
 }
@@ -46,6 +47,5 @@ return result;
 
 FiilArray(Array);
 PrintArray(Array);
-Method(Array);
 
 Console.Write($"Разница между максимальным и минимальным значениями: " + Method(Array));
