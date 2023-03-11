@@ -16,15 +16,15 @@ N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1" */
 M = 1; N = 15 -> 120
 M = 4; N = 8. -> 30*/
 
-int Recursion(int N,int M)
+int Recurs(int N,int M)
 {
     int result;
     for(int i = 0; i < N;i++)
     {
     if(N==M) return M;
     }
-    else return result = Recursion(N - 1,M) + Recursion(N - 2,M);
+    else return result = Recurs(N - 1,M) + Recurs(N - 2,M);
     
 }
 
-Console.WriteLine($"{Recursion(10,1)} ");
+Console.WriteLine($"{Recurs(10,1)} ");

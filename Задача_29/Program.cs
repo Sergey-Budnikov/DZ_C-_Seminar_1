@@ -21,7 +21,7 @@ PrintArray(array);
 
 /* ВТОРОЕ РЕШЕНИЕ */
 
-int[] array = new int[8];
+int[] arr = new int[8];
 
 void FillArray (int[] ArrayMethod)
 {
@@ -34,5 +34,5 @@ void FillArray (int[] ArrayMethod)
 }
 }
 
-FillArray(array);
-PrintArray(array);
+FillArray(arr);
+PrintArray(arr);

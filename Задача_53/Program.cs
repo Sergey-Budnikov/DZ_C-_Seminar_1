@@ -41,7 +41,7 @@ PrintArray(matrix);
 
 // Второй вариант
 
-int [,] FillArray(int rows, int colums, int min, int max)
+int [,] FillArr(int rows, int colums, int min, int max)
 {
     int[,] array = new int[rows,colums];
     for(int i = 0; i < rows; i++)
@@ -50,19 +50,6 @@ int [,] FillArray(int rows, int colums, int min, int max)
         {
             array[i,j] = new Random().Next(min, max);
         }
-    }
-    return array;
-}
-
-int [,] PrintArray(int[,] array)
-{
-    for(int i = 0; i < array.GetLength(0); i++)
-    {
-        for(int j = 0; j < array.GetLength(1); j++)
-        {
-            Console.Write($" {array[i,j]}");
-        }
-        Console.WriteLine();
     }
     return array;
 }
@@ -76,7 +63,8 @@ void ReversRows(int[,] array)
         array[array.GetLength(1)-1,i] = temp;
     }
 }
- int[,] arr = FillArray(4,4,1,10);
+ 
+ int[,] arr = FillArr(4,4,1,10);
  PrintArray(arr);
  ReversRows(arr);
  Console.WriteLine();
