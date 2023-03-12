@@ -1,0 +1,15 @@
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\bin\Debug\net7.0\Задача_от_Габиля.exe
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\bin\Debug\net7.0\Задача_от_Габиля.deps.json
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\bin\Debug\net7.0\Задача_от_Габиля.runtimeconfig.json
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\bin\Debug\net7.0\Задача_от_Габиля.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\bin\Debug\net7.0\Задача_от_Габиля.pdb
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\obj\Debug\net7.0\Задача_от_Габиля.csproj.AssemblyReference.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\obj\Debug\net7.0\Задача_от_Габиля.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\obj\Debug\net7.0\Задача_от_Габиля.AssemblyInfoInputs.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\obj\Debug\net7.0\Задача_от_Габиля.AssemblyInfo.cs
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\obj\Debug\net7.0\Задача_от_Габиля.csproj.CoreCompileInputs.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\obj\Debug\net7.0\Задача_от_Габиля.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\obj\Debug\net7.0\refint\Задача_от_Габиля.dll
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\obj\Debug\net7.0\Задача_от_Габиля.pdb
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\obj\Debug\net7.0\Задача_от_Габиля.genruntimeconfig.cache
+E:\Users\serge\Desktop\Репозитории\ДЗ_С#_Урок_1\Задача_от_Габиля\obj\Debug\net7.0\ref\Задача_от_Габиля.dll
